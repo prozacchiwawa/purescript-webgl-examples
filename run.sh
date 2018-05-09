@@ -15,3 +15,4 @@ purs bundle output/**/*.js -m Example7 -o dist/Main7.js
 purs bundle output/**/*.js -m Example8 -o dist/Main8.js
 purs bundle output/**/*.js -m Example9 -o dist/Main9.js
 purs bundle output/**/*.js -m Example9ST -o dist/Main9ST.js
+purs bundle output/**/*.js -m ExampleTest -o dist/MainTest.js
